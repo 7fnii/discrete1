@@ -1,0 +1,8 @@
+C:\Users\youse\source\repos\prime1\prime1\bin\Debug\prime1.exe.config
+C:\Users\youse\source\repos\prime1\prime1\bin\Debug\prime1.exe
+C:\Users\youse\source\repos\prime1\prime1\bin\Debug\prime1.pdb
+C:\Users\youse\source\repos\prime1\prime1\obj\Debug\prime1.csproj.AssemblyReference.cache
+C:\Users\youse\source\repos\prime1\prime1\obj\Debug\prime1.csproj.SuggestedBindingRedirects.cache
+C:\Users\youse\source\repos\prime1\prime1\obj\Debug\prime1.csproj.CoreCompileInputs.cache
+C:\Users\youse\source\repos\prime1\prime1\obj\Debug\prime1.exe
+C:\Users\youse\source\repos\prime1\prime1\obj\Debug\prime1.pdb
